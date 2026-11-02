@@ -1,3 +1,5 @@
+> **Fork notice:** This repository is a copy of [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui), maintained by its original authors. All credit for the original work goes to them. It's licensed under the upstream project's license (MIT).
+
 # Chatbot UI
 
 The open-source AI chat app for everyone.
